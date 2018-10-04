@@ -1,7 +1,7 @@
 MemoriaGame
 
 1 Áttekintés
-
+	Elmegyunk a kocsmába
 2 Jelenlegi helyzet
 	Kész
 3 Funkcionális követelmények
