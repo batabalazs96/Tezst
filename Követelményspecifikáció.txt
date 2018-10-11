@@ -1,1 +1,6 @@
 KövetelménySpecifikáció
+
+
+1. Jelenlegi helyzet leírása: Elkészítettük a txt fajlokat git segitségével mindenki megszerezte. Felosztottuk a feladatokat.
+2. Vágyálom rendszer leírása.
+3. A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása.
