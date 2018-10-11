@@ -1,9 +1,0 @@
-MemoriaGame
-
-1 Áttekintés
-
-2 Jelenlegi helyzet
-	Kész
-3 Funkcionális követelmények
-
-4 Technikai követelmények
