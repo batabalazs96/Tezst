@@ -31,3 +31,5 @@ Egyszerû litisztult felülelt könnyen átlátható, nagy méretû ikonok, hogy mindenk
 11 Forgatókönyvek.
 12 Funkció – követelmény megfeleltetés.
 13 Fogalomszótár.
+	négyzet = qubix
+	betû=font
