@@ -1,7 +1,14 @@
 MemoriaGame
 
+<<<<<<< HEAD
 1 ï¿½ttekintï¿½s
 	Elmegyunk a kocsmï¿½ba
+=======
+1 Áttekintés
+	Elmegyunk a kocsmába
+	rajt !
+
+>>>>>>> cf8fce2abfa8aff23d42937c6411f12fb9401f40
 2 Jelenlegi helyzet
 	Kï¿½sz2
 3 Funkcionï¿½lis kï¿½vetelmï¿½nyek
