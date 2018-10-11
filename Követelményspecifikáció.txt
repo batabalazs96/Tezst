@@ -5,8 +5,8 @@ KövetelménySpecifikáció
 <<<<<<< HEAD
 
 1. Jelenlegi helyzet leírása: Elkészítettük a txt fajlokat git segitségével mindenki megszerezte. Felosztottuk a feladatokat.
-2. Vágyálom rendszer leírása.
-3. A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása.
+2. Vágyálom rendszer leírása: Memoria játékból sok pénzt keresünk és sokan fogják játszani
+3. A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása: Nem palyazunk semmire nincsennek rendeletek szabványok.
 =======
 Jelenlegi helyzet leírása.
 
@@ -16,11 +16,13 @@ A rendszerre vonatkozó
 pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása.
 
 Jelenlegi üzleti folyamatok modellje.
-
+Elkezdtük a marketing folyamatokat, folytatjuk a hiteltárgyalásokat, folyamatban vannak a befektetõkkel való tárgyalások
 Igényelt üzleti folyamatok modellje.
-
+Szükség van olyan befektetõkre akik nagy tõkével tudnak beszálni a projekt végrehajtásába
 Követelménylista
 
+Modul		ID		Név		V. 		Kifejtés
+Jogosultság	K1		Beléptetés	0.8		Felhasználó Jelszavának megadásával beléphet a rendszerbe
 
 Irányított és szabad szöveges riportok szövege.
 Hány alkalmazott van a cégnél, tisztáznunk kell minden egyes elvárást a késõbbi félreértések elkerülése végett.
