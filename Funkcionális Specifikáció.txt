@@ -1,4 +1,29 @@
-A rendszer céljai és nem céljai:Felhasználó könnyen tudja használni az alkalmazást, könnyen tudjon másokkal eggyütt játszani. Átlátható, letisztul Felhasználói felület.
- Jelenlegi helyzet leírása:Jelenleg meg csak az alap dolgok vannak meg a kinezet nagyon egyszerõ.
 
- Vágyálom rendszer leírása:Egy szép könnyen kezelhetõ alkalmazás amit sokan szivesen játszanak
+A rendszer céljai és nem céljai:
+Felhasználó könnyen tudja használni az alkalmazást, könnyen tudjon másokkal eggyütt játszani. Átlátható, letisztul Felhasználói felület.
+ 
+Jelenlegi helyzet leírása:
+
+Jelenleg meg csak az alap dolgok vannak meg a kinezet nagyon egyszerõ.
+
+Vágyálom rendszer leírása:
+Egy szép könnyen kezelhetõ alkalmazás amit sokan szivesen játszanak
+
+
+4 A rendszerre vonatkozó külsõ megszorítások: pályázat, törvények, rendeletek, szabványok és
+ajánlások felsorolása.
+Törvények rendelkeznek arról hogy milyen követelményeknek kell megfelelni biztonsági szempontból
+
+5 Jelenlegi üzleti folyamatok modellje.
+	Elkezdtük a marketing folyamatokat, folytatjuk a hiteltárgyalásokat, folyamatban vannak a befektetõkkel való tárgyalások
+6 Igényelt üzleti folyamatok modellje.
+	Szükség van olyan befektetõkre akik nagy tõkével tudnak beszálni a projekt végrehajtásába
+7 Követelménylista.
+	Modul		ID		Név		V. 		Kifejtés
+	Jogosultság	K1		Beléptetés	0.8		Felhasználó Jelszavának megadásával beléphet a rendszerbe
+8 Használati esetek [Use cases].
+9 Megfeleltetés, hogyan fedik le a használati esetek a követelményeket.
+10 Képernyõ tervek.
+11 Forgatókönyvek.
+12 Funkció – követelmény megfeleltetés.
+13 Fogalomszótár.
