@@ -1,6 +1,26 @@
 KövetelménySpecifikáció
 
+<<<<<<< HEAD
 
 1. Jelenlegi helyzet leírása: Elkészítettük a txt fajlokat git segitségével mindenki megszerezte. Felosztottuk a feladatokat.
 2. Vágyálom rendszer leírása.
 3. A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása.
+=======
+Jelenlegi helyzet leírása.
+
+Vágyálomrendszer leírása.
+
+A rendszerre vonatkozó
+pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása.
+
+Jelenlegi üzleti folyamatok modellje.
+
+Igényelt üzleti folyamatok modellje.
+
+Követelménylista
+
+
+Irányított és szabad szöveges riportok szövege.
+
+Fogalomszótár.
+>>>>>>> 7bc9cde661cfb5e33be9968194b1fecd17c0438f
