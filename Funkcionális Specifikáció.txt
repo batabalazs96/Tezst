@@ -24,7 +24,7 @@ Törvények rendelkeznek arról hogy milyen követelményeknek kell megfelelni bizton
 8 Használati esetek [Use cases].
 	Agytorna gyanánt mikor kicsit unatkozunk.
 9 Megfeleltetés, hogyan fedik le a használati esetek a követelményeket.
-
+	Teljes mértékben lefedik az elvárásoknak megfelelõ a szoftver.
 10 Képernyõ tervek.
 Egyszerû litisztult felülelt könnyen átlátható, nagy méretû ikonok, hogy mindenki számára kényelmes legyen a használat. 
 
