@@ -23,6 +23,7 @@ Követelménylista
 
 
 Irányított és szabad szöveges riportok szövege.
-
+Hány alkalmazott van a cégnél, tisztáznunk kell minden egyes elvárást a késõbbi félreértések elkerülése végett.
 Fogalomszótár.
->>>>>>> 7bc9cde661cfb5e33be9968194b1fecd17c0438f
+A játékban ez jelenti az üres négyzetet !
+Négyzet = qubix
