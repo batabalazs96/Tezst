@@ -1,9 +1,9 @@
 MemoriaGame
 
-1 Áttekintés
-	Elmegyunk a kocsmába
+1 ï¿½ttekintï¿½s
+	Elmegyunk a kocsmï¿½ba
 2 Jelenlegi helyzet
-	Kész
-3 Funkcionális követelmények
+	Kï¿½sz2
+3 Funkcionï¿½lis kï¿½vetelmï¿½nyek
 
-4 Technikai követelmények
+4 Technikai kï¿½vetelmï¿½nyek
