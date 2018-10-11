@@ -1,0 +1,4 @@
+A rendszer céljai és nem céljai:Felhasználó könnyen tudja használni az alkalmazást, könnyen tudjon másokkal eggyütt játszani. Átlátható, letisztul Felhasználói felület.
+ Jelenlegi helyzet leírása:Jelenleg meg csak az alap dolgok vannak meg a kinezet nagyon egyszerõ.
+
+ Vágyálom rendszer leírása:Egy szép könnyen kezelhetõ alkalmazás amit sokan szivesen játszanak
